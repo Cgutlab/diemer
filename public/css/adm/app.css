@@ -1,0 +1,45 @@
+nav{
+    background: #424758 !important
+}
+.container{
+    padding: 0px 0px 0px 60px;
+    margin-left:0;
+    width:100% !important;
+}
+.img-producto{
+    position:absolute;
+    right: 0;
+    top: 0;
+}
+img.img-producto{
+    width: 100px !important;
+    margin-right: 10px;
+    margin-left: 10px;
+    position: relative;
+}
+img.img-logo{
+    width: 140px !important;
+    margin-right: 10px;
+    margin-left: 10px;
+    position: relative;
+}
+img.img{
+    width: 140px !important;
+    margin-right: 10px;
+    margin-left: 10px;
+    position: relative;
+}
+.file-path{
+    width: 75% !important
+}
+.remove{
+    position: inherit !important;
+}
+.logo{
+    width: 60% !important;
+    margin: 5% 10%;
+}
+.empresa_img{
+    width: 200px !important;
+    position: relative;
+}
